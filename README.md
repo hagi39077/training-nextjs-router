@@ -1,6 +1,7 @@
 # practical-nextjs-book/training
 
-App Router の概要を理解するための、練習用サンプルコードです。各 package は、書籍構成に応じて段階的に機能強化されています。
+App Router の概要を理解するための、練習用サンプルコード。   
+https://gihyo.jp/book/2024/978-4-297-14061-8   
 
 ## 練習用サンプルコード
 
